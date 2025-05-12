@@ -24,7 +24,7 @@
 "Cada sonho que você deixa para trás é um pedaço do seu futuro que deixa de existir." -Steve Jobs</br>
 
 ### Sobre mim
-• Olá, me chamo Davi Santos, tenho 19 anos e atualmente sou universitário de Análise e Desenvolvimento de Sistemas, neste momento meus estudos estao focados na tecnologia Delphi.
+• Olá, me chamo Davi Santos, tenho 20 anos e atualmente sou universitário de Análise e Desenvolvimento de Sistemas.
 
 • Tenho interesse em me tornar um programador fullstack ou mais focado no back-end.
 
